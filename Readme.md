@@ -4,6 +4,19 @@ SuperRes_v4: MatLab app and GUIs for handling SMLM data
 v4 january 2023 - revised feb 2025
 Programmed in Matlab 2015b, Matlab 2019b, Matlab 2024a
 
+SuperRes_v4: MatLab app and GUIs for handling SMLM data 
+
+Adapted to data from PALM, STORM, sptPALM, UPAINT.
+
+Features : detection, tracking, diffusion analysis, visualization, 
+corrections (stage drift, color shift, multiple detections), 
+colocalization, clustering analysis (Diinamic). Detection is done 
+with a modified code from MTT software.
+
+Please refer to help files included for more information, references and credits.
+
+***********************************************************************
+
 Unless indicated in the code (please note that some tools were
 incorporated from other softwares), this program is free software; 
 you can redistribute it and/or modify it under the terms of the GNU 
@@ -31,4 +44,5 @@ Please refer to help files for the description of the fonctionalities.
 
 
 ********************************************************************
+
 
