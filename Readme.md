@@ -1,5 +1,5 @@
 *******************************************************************
-SuperRes_v4: MatLab-based programs for SMLM data
+SuperRes_v4: MatLab app and GUIs for handling SMLM data
 *******************************************************************
 v4 january 2023 - revised feb 2025
 Programmed in Matlab 2015b, Matlab 2019b, Matlab 2024a
@@ -21,11 +21,14 @@ marianne.renner@icm-institute.org
 I M P O R T A N T
 ********************************************************************
 
-Data:
+To run the app : set the path to the folder SuperRes_v4.
+Run SuperRes_v4_App.mlapp to start (double-click on this file).
 
-The program works having the data on the current directory. 
-To search the data directory, use MatLab or in the SPTrack 
-window, File->Data folder.
+Please note that the program works having the data on the current 
+directory. 
+
+Please refer to help files for the description of the fonctionalities.
 
 
 ********************************************************************
+
